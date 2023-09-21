@@ -1,0 +1,9 @@
+h1 {text-align: center;} 
+h2 {text-align: center;} 
+p {text-align: center;} 
+.linksOthers {
+    text-align: center;
+}
+body {font-size: 20px;
+    font-family: 'Skranji', cursive;
+    background-color: lightgreen;}
