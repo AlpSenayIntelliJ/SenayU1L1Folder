@@ -7,3 +7,31 @@ p {text-align: center;}
 body {font-size: 20px;
     font-family: 'Skranji', cursive;
     background-color: lightgreen;}
+.skillsList {
+    text-align: center;
+}
+.skillsUL {
+    font-size: 25px;
+    display: inline-block;
+    text-align: left;
+}
+.audiofile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.spotsList {
+    text-align: center;
+}
+.spotsUL {
+    font-size: 25px;
+    display: inline-block;
+    text-align: left;
+}
+.spotsForm {
+    text-align: center;
+}
+video {
+    display: block;
+    margin: 0 auto;
+}
